@@ -1,0 +1,68 @@
+body {
+    background-color: rgb(31, 5, 109);
+    color: rgb(0, 0, 0);
+    margin: 0px auto;
+    padding: 0px auto;
+    width: 1000px;
+}
+header, footer {
+    font-family: Arial;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+section {
+    border: 1px solid rgb(255, 255, 255);
+    font-family: Arial;
+    color: rgb(255, 255, 255);
+    margin: 10px auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+button {
+    width: 220px;
+    height: 40px;
+}
+button a {
+    color: rgb(255, 255, 255);
+}
+.buttons {
+    border: 2px solid rgb(255, 255, 255);
+    font-family: Arial;
+    color: rgb(255, 255, 255);
+    outline-color: rgb(255, 255, 255);
+    height: 40px;
+    margin: 20px auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.button1 {
+    background-color: rgb(81, 151, 67);
+    color: rgb(255, 255, 255);
+}
+.button2 {
+    background-color: rgb(149, 63, 48);
+    color: rgb(255, 255, 255);
+}
+.button3 {
+    background-color: rgb(232, 108, 185);
+    color: rgb(255, 255, 255);
+}
+.button4 {
+    background-color: rgb(47, 60, 84);
+    color: rgb(255, 255, 255);
+}
+.info {
+    display: flex;
+    gap: 20px;
+}
+.doc {
+    width: 80%;
+    padding-top: 0px;
+}
+.metadata {
+    width: 20%;
+}
